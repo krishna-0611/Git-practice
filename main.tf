@@ -3,3 +3,15 @@ resource "azurerm_resource_group" "myrgkraze" {
     location = "west us" 
 
 }
+
+resource "azurerm_resource_group" "myrgkraze" {
+    name = "mahi65"
+    location = "east us" 
+
+}
+
+resource "azurerm_resource_group" "myrgkraze" {
+    name = "anchuu65"
+    location = "west us" 
+
+}
