@@ -5,9 +5,13 @@ resource "azurerm_resource_group" "myrgkraze" {
 }
 
 resource "azurerm_resource_group" "myrgkraze" {
-    name = "mahi57"
-    location = "central india" 
+    name = "mahi65"
+    location = "east us" 
+
 }
-    name = "krish95"
+
+resource "azurerm_resource_group" "myrgkraze" {
+    name = "anchuu65"
     location = "west us" 
+
 }
